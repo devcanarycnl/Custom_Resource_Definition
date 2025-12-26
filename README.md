@@ -1,5 +1,5 @@
 # Custom_Resource_Definition
-Go to this URL: https://github.com/praveen1994dec/Custom_Resource_Definition.git
+Go to this URL: https://github.com/devcanarycnl/Custom_Resource_Definition.git
 
 kubectl apply -f ./crd.yaml
 
